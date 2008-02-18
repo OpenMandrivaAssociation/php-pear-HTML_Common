@@ -3,7 +3,7 @@
 %define		_status		stable
 %define		_pearname	%{_class}_%{_subclass}
 
-Summary:	%{_pearname} - PEAR::HTML_Common is a base class for other HTML classes
+Summary:	Base class for other HTML classes
 Name:		php-pear-%{_pearname}
 Version:	1.2.4
 Release:	%mkrel 1
