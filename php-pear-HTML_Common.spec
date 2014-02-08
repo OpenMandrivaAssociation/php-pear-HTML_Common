@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.2.5
-Release:	7
+Release:	8
 Summary:	Base class for other HTML classes
 License:	PHP License
 Group:		Development/PHP
