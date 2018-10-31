@@ -5,7 +5,7 @@
 Summary:	Base class for other HTML classes
 Name:		php-pear-%{modname}
 Version:	1.2.5
-Release:	15
+Release:	16
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/HTML_Common/
