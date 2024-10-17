@@ -8,7 +8,7 @@ Version:	1.2.5
 Release:	17
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/HTML_Common/
+Url:		https://pear.php.net/package/HTML_Common/
 Source0:	http://download.pear.php.net/package/%{modname}-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	php-pear
